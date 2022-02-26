@@ -1,3 +1,5 @@
 es mi historia con git
 
 este fue mi primer comit
+
+en camara parace mucho pero en realidad no lo es
