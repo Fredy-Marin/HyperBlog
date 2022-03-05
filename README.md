@@ -1,2 +1,2 @@
 # HyperBlog
-un blog increíble para el curso de Git y Github 
+un blog increíble para el curso de Git y Github, ahora trabajo con Theo Marin
